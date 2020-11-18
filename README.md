@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
 -->
-<img src ="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&&show_icons=true&title_color=f2f2f2&icon_color=2188fff&text_color=daf7dc&bg_color=151515">
+
 
 [![Twitter: DishantSingh](https://img.shields.io/twitter/follow/Dishantsingh5?style=social)](https://twitter.com/Dishantsingh5)
-[![Linkedin: DishantSingh](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-singh-6b05a7138/)](https://www.linkedin.com/in/dishant-singh-6b05a7138/)
+[![Linkedin: DishantSingh](https://img.shields.io/badge/-DishantSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-singh-6b05a7138/)](https://www.linkedin.com/in/dishant-singh-6b05a7138/)
 [![GitHub:DishantSingh](https://img.shields.io/github/followers/dishantsingh1998?label=follow&style=social)](https://github.com/dishantsingh1998)
 
 
