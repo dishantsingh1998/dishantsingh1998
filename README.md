@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 
 <a href="https://github.com/dishantsingh1998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantsingh1998&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantsingh1998&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/dishantsingh1998">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 
