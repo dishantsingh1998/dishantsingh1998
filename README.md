@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Python,C++,Jupyter
-- 📫 How to reach me:
+- 📫 How to reach me:dishantsingh1998@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
 -->
