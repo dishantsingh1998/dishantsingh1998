@@ -53,5 +53,9 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
