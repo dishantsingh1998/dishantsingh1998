@@ -24,7 +24,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack Development 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & GraphQl
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Python,C++,Jupyter
 - 📫 How to reach me:dishantsingh1998@gmail.com/(https://angel.co/u/dishant-singh-1)
