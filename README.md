@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantsingh1998&label=Views&color=blue&style=plastic" alt="dishantsingh1998" /> </p>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <a href="https://twitter.com/Dishantsingh5">
   <img align="left" alt="Dishant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantsingh1998&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/dishantsingh1998">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dishantsingh1998&layout=compact&langs_count=8&theme=algolia" alt="Dishant's github stats"/>
 </a>
 
 <div align="center">
