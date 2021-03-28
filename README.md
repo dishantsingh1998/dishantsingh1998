@@ -1,6 +1,7 @@
 ###  I 'm Vengeance
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantsingh1998&label=Views&color=blue&style=plastic" alt="dishantsingh1998" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantsingh1998&label=Profile Views&color=red&style=flat" alt="dishantsingh" /> &nbsp<img src="https://visitor-badge.glitch.me/badge?page_id=dishantsingh1998" /></p>
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 
 <a href="https://github.com/dishantsingh1998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantsingh1998&theme=dark&hide_langs_below=1" />
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 <a href="https://github.com/dishantsingh1998">
  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dishantsingh1998&layout=compact&langs_count=8&theme=algolia" alt="Dishant's github stats"/>
