@@ -1,6 +1,6 @@
 ###  I 'm Vengeance
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantsingh1998&label=Profile Views&color=red&style=flat" alt="dishantsingh" /> &nbsp<img src="https://visitor-badge.glitch.me/badge?page_id=dishantsingh1998" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantsingh1998&label=Profile Views&color=red&style=flat" alt="dishantsingh" /></p>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
