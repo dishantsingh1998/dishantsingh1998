@@ -25,9 +25,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack Development 
-- 🌱 I’m currently learning Flutter & GraphQl
+- 🌱 I’m currently learning Flutter,GraphQl & Apollo Client
 - 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about Python,C++,Jupyter
+- 💬 Ask me about Python,C
 - 📫 How to reach me:dishantsingh1998@gmail.com/(https://angel.co/u/dishant-singh-1)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
