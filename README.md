@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 <a href="https://github.com/dishantsingh1998">
- <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dishantsingh1998&layout=compact&langs_count=8&theme=algolia" alt="Dishant's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantsingh1998&layout=compact" alt="Dishant's github stats"/>
 </a>
 
 <div align="center">
