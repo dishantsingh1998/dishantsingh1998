@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantsingh1998&label=Profile Views&color=red&style=flat" alt="dishantsingh" /></p>
 
 
-<img alt="Night Coding" src="https://camo.githubusercontent.com/5126cb7e84d4801594e51138e30aab52a710e8727b52bd120dc386dc38ec111d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f39393837352f73637265656e73686f74732f363537373032392f323031392d30362d30335f706164646c652d62616c6c2e676966" align="right"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="300px" />
 
 <a href="https://twitter.com/Dishantsingh5">
   <img align="left" alt="Dishant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
