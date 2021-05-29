@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 
 <a href="https://github.com/dishantsingh1998">
-<img align="center" src ="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src ="https://github-readme-stats-eight-theta.vercel.app/api?username=dishantsingh1998&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
 </a>
 <a href="https://github.com/dishantsingh1998">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantsingh1998&layout=compact" alt="Dishant's github stats"/>
+ <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dishantsingh1998&layout=compact&langs_count=8&theme=algolia" alt="Dishant's github stats"/>
 </a>
 
 <div align="center">
