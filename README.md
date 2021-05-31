@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantsingh1998&label=Profile Views&color=red&style=flat" alt="dishantsingh" /></p>
 
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="300px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65276766/120166401-29228b00-c21a-11eb-9f27-157a2376b102.gif" width="300px" />
 
 <a href="https://twitter.com/Dishantsingh5">
   <img align="left" alt="Dishant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
