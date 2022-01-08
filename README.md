@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 [![Linkedin: DishantSingh](https://img.shields.io/badge/-DishantSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-singh-6b05a7138/)](https://www.linkedin.com/in/dishant-singh-6b05a7138/)
 [![GitHub:DishantSingh](https://img.shields.io/github/followers/dishantsingh1998?label=follow&style=social)](https://github.com/dishantsingh1998)
 
+<br>
 
 **Languages and Tools:**  
 
@@ -52,12 +53,35 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 
+
+
+<h3>Github Stats 📊</h3>
+<p align=center>
 <a href="https://github.com/dishantsingh1998">
 <img align="center" src ="https://github-readme-stats-eight-theta.vercel.app/api?username=dishantsingh1998&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
 </a>
 <a href="https://github.com/dishantsingh1998">
  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dishantsingh1998&layout=compact&langs_count=8&theme=algolia" alt="Dishant's github stats"/>
 </a>
+</p>
+
+<h3>Github Streak :fire:</h3>
+37
+<p align="center">
+38
+  <a href="https://git.io/streak-stats">
+39
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dishantsingh1998&theme=nightowl"></img>
+40
+  </a>
+41
+</p>
+
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=dishantsingh1998&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
+</p>
+<br>
 
 <div align="center">
 
