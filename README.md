@@ -66,15 +66,15 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Github Streak :fire:</h3>
-37
+
 <p align="center">
-38
+
   <a href="https://git.io/streak-stats">
-39
+
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dishantsingh1998&theme=nightowl"></img>
-40
+
   </a>
-41
+
 </p>
 
 <p align=center>
