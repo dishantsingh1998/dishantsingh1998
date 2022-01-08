@@ -70,13 +70,10 @@ Here are some ideas to get you started:
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dishantsingh1998&theme=nightowl"></img>
   </a>
-</p>
-
-<p align=center>
+  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=dishantsingh1998&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
-</p>
-<br>
+
 
 <div align="center">
 
